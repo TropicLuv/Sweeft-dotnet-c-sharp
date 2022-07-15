@@ -17,8 +17,7 @@
 <li>isProperly Test 2 -> ")()(" : false</li></ul>
 <ul>__________countVariants_____________
 <li>countVariants Test 1 -> "(5)" : 8</li>
-<li>countVariants Test 2 -> "(20)" : 10946</li>
-____________________________________</ul>
-<ul>__________8_____________
+<li>countVariants Test 2 -> "(20)" : 10946</li></ul>
+<ul>__________GenerateCountryDataFiles_____________
 <li>FOR SOLUTION, CHECK FOLDER -> \src\Countries</li>
-  </ul>
+  ____________________________________</ul>
