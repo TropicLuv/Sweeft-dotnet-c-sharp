@@ -20,5 +20,5 @@
 <li>countVariants Test 2 -> "(20)" : 10946</li>
 ____________________________________</ul>
 <ul>__________8_____________
-FOR SOLUTION, CHECK FOLDER -> \src\Countries
+<li>FOR SOLUTION, CHECK FOLDER -> \src\Countries</li>
   </ul>
