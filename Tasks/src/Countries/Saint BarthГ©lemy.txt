@@ -1,0 +1,5 @@
+Americas
+Caribbean
+18.5,-63.41667
+21
+4255

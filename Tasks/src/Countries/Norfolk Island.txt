@@ -1,0 +1,5 @@
+Oceania
+Australia and New Zealand
+-29.03333,167.95
+36
+2302

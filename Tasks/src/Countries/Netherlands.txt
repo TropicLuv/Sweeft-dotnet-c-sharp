@@ -1,0 +1,5 @@
+Europe
+Western Europe
+52.5,5.75
+41850
+16655799

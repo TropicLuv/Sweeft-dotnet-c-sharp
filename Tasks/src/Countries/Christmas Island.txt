@@ -1,0 +1,5 @@
+Oceania
+Australia and New Zealand
+-10.5,105.6667
+135
+2072

@@ -1,0 +1,5 @@
+Americas
+Central America
+15.5,-90.25
+108889
+16858333

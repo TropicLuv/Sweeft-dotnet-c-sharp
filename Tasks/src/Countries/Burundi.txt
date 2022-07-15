@@ -1,0 +1,5 @@
+Africa
+Eastern Africa
+-3.5,30
+27834
+11890781

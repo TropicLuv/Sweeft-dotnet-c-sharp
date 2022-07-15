@@ -1,0 +1,5 @@
+Europe
+Western Europe
+43.73333,7.4
+2.02
+39244

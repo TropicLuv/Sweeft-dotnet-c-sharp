@@ -1,0 +1,5 @@
+Europe
+Western Europe
+50.83333,4
+30528
+11555997

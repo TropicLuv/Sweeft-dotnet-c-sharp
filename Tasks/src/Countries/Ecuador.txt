@@ -1,0 +1,5 @@
+Americas
+South America
+-2,-77.5
+276841
+17643060

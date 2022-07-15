@@ -1,0 +1,5 @@
+Africa
+Southern Africa
+-29.5,28.5
+30355
+2142252

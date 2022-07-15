@@ -1,0 +1,5 @@
+Oceania
+Australia and New Zealand
+-12.5,96.83334
+14
+544

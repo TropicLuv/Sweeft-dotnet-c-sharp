@@ -1,0 +1,5 @@
+Europe
+Eastern Europe
+60,100
+1.709824E+07
+144104080

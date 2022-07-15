@@ -1,0 +1,5 @@
+Africa
+Southern Africa
+-26.5,31.5
+17364
+1160164

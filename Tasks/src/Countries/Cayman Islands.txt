@@ -1,0 +1,5 @@
+Americas
+Caribbean
+19.5,-80.5
+264
+65720

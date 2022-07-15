@@ -1,0 +1,5 @@
+Europe
+Western Europe
+47.26667,9.533334
+160
+38137

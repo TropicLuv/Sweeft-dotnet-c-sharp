@@ -1,0 +1,5 @@
+Africa
+Middle Africa
+-1,15
+342000
+5657000

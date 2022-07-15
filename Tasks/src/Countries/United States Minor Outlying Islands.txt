@@ -1,0 +1,5 @@
+Americas
+North America
+19.3,166.6333
+34.2
+300

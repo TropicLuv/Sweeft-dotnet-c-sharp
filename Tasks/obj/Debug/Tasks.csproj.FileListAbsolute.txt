@@ -1,0 +1,15 @@
+W:\C#\Tasks\Tasks\bin\Debug\Tasks.exe.config
+W:\C#\Tasks\Tasks\bin\Debug\Tasks.exe
+W:\C#\Tasks\Tasks\bin\Debug\Tasks.pdb
+W:\C#\Tasks\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
+W:\C#\Tasks\Tasks\obj\Debug\Tasks.csproj.SuggestedBindingRedirects.cache
+W:\C#\Tasks\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+W:\C#\Tasks\Tasks\obj\Debug\Tasks.exe
+W:\C#\Tasks\Tasks\obj\Debug\Tasks.pdb
+W:\C#\Tasks\Tasks\bin\Debug\Newtonsoft.Json.dll
+W:\C#\Tasks\Tasks\bin\Debug\System.Net.Http.Formatting.dll
+W:\C#\Tasks\Tasks\bin\Debug\Newtonsoft.Json.xml
+W:\C#\Tasks\Tasks\bin\Debug\System.Net.Http.Formatting.xml
+W:\C#\Tasks\Tasks\bin\Debug\ko\System.Net.Http.Formatting.resources.dll
+W:\C#\Tasks\Tasks\obj\Debug\Tasks.csproj.CopyComplete
+W:\C#\Tasks\Tasks\bin\Debug\Json.Net.dll
