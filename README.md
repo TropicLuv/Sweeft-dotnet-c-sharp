@@ -1,3 +1,4 @@
+<h4>In countVariants() exercise I calculated everything mathematically, using combinatorics. So, if input > 20 it goes out of int range because of auxiliary factorial function, so don't judge me :)</h4>
 <ul>__________isPalindrome_____________
   <li>isPalindrome Test 1 : ("hello_SWEEFT!") -> false</li>
 <li>isPalindrome Test 2 : ("olo1olo") -> true</li>
